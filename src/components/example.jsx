@@ -1,0 +1,1 @@
+<div className="Rectangle1 w-full bg-[#0a1f30]" />
